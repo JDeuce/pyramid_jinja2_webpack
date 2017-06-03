@@ -19,7 +19,7 @@ def read(*names, **kwargs):
 
 setup(
     name='pyramid-jinja2-webpack',
-    version='0.1.0',
+    version='0.1.1',
     license='BSD',
     description='Pyramid integration of jinja2_webpack',
     long_description='%s\n%s' % (

@@ -96,4 +96,4 @@ def includeme(config):
     jinja2_env.filters['webpack'] = webpack_filter
 
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
