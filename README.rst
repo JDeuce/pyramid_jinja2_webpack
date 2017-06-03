@@ -16,8 +16,8 @@ Overview
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
 
-.. |docs| image:: https://readthedocs.org/projects/python-pyramid-jinja2-webpack/badge/?style=flat
-    :target: https://readthedocs.org/projects/python-pyramid-jinja2-webpack
+.. |docs| image:: https://readthedocs.org/projects/pyramid-jinja2-webpack/badge/?style=flat
+    :target: https://readthedocs.org/projects/pyramid-jinja2-webpack
     :alt: Documentation Status
 
 .. |travis| image:: https://travis-ci.org/JDeuce/python-pyramid-jinja2-webpack.svg?branch=master
@@ -73,7 +73,7 @@ Installation
 Documentation
 =============
 
-https://python-pyramid-jinja2-webpack.readthedocs.io/
+https://pyramid-jinja2-webpack.readthedocs.io/
 
 Development
 ===========
