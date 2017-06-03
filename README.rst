@@ -11,7 +11,7 @@ Overview
       - |docs|
     * - tests
       - | |travis| |appveyor| |requires|
-        | |codecov|
+        | |coveralls| |codecov|
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
@@ -31,6 +31,10 @@ Overview
 .. |requires| image:: https://requires.io/github/JDeuce/python-pyramid-jinja2-webpack/requirements.svg?branch=master
     :alt: Requirements Status
     :target: https://requires.io/github/JDeuce/python-pyramid-jinja2-webpack/requirements/?branch=master
+
+.. |coveralls| image:: https://coveralls.io/repos/JDeuce/python-pyramid-jinja2-webpack/badge.svg?branch=master&service=github
+    :alt: Coverage Status
+    :target: https://coveralls.io/github/JDeuce/python-pyramid-jinja2-webpack
 
 .. |codecov| image:: https://codecov.io/github/JDeuce/python-pyramid-jinja2-webpack/coverage.svg?branch=master
     :alt: Coverage Status
