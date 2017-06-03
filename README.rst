@@ -16,8 +16,8 @@ Overview
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
 
-.. |docs| image:: https://readthedocs.org/projects/pyramid-jinja2-webpack/badge/?style=flat
-    :target: https://readthedocs.org/projects/pyramid-jinja2-webpack
+.. |docs| image:: https://readthedocs.org/projects/pyramid-jinja2-webpack/badge?version=latest
+    :target: http://pyramid-jinja2-webpack.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. |travis| image:: https://travis-ci.org/JDeuce/python-pyramid-jinja2-webpack.svg?branch=master
@@ -87,7 +87,7 @@ To run the all tests run::
     tox
 
 
-To run on a specific version of python run e.g.
+To run on a specific version of python run e.g.::
 
     tox -e py34
     tox -e py27

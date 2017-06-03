@@ -59,4 +59,4 @@ You can then query an asset like::
 More Info
 =========
 
-See: `jinja2_webpack <http://jinja2-webpack.readthedocs.io/en/latest/>`
+See: `jinja2_webpack <http://jinja2-webpack.readthedocs.io/en/latest/>`_.
